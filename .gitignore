@@ -58,8 +58,8 @@ freeline/
 freeline_project_description.json
 
 # fastlane
-fastlane/report.xml
-fastlane/Preview.html
-fastlane/screenshots
-fastlane/test_output
-fastlane/readme.md
+HelloWorld/fastlane/report.xml
+HelloWorld/fastlane/Preview.html
+HelloWorld/fastlane/screenshots
+HelloWorld/fastlane/test_output
+HelloWorld/fastlane/readme.md
